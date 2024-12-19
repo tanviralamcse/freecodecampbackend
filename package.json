@@ -1,5 +1,6 @@
 {
   "author": "Tanvir Alam",
+  "description": "A very good project for backend",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
